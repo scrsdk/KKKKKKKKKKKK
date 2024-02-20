@@ -1,9 +1,9 @@
 {
   "news": [
     {
-      "title": "Заголовок новости 1",
-      "content": "Содержание новости 1. Здесь много интересного текста.",
-      "imageUrl": "http://example.com/news1.png"
+      "title": "NEWS",
+      "content": "CONTEN",
+      "imageUrl": "https://i.playground.ru/p/NsWN2NGoV7qQphYPg26qfg.jpeg"
     }
   ]
 }
